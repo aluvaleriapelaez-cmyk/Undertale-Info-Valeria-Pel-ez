@@ -49,15 +49,6 @@ text-shadow:
 0 0 20px #00ffff;
 }
 
-/* IMAGEN PRESENTACION */
-
-.presentacion{
-height:800px;
-background-image:url("ttps://static.wikia.nocookie.net/undertale/images/6/6a/Undertale_complete_map_true_lab_by_higurashikarly-d9g9dt2.png/revision/latest/scale-to-width-down/250?cb=20160113233204&path-prefix=es");
-background-size:cover;
-background-position:center;
-}
-
 /* CONTENIDO */
 
 .contenido{
@@ -271,9 +262,10 @@ margin-right:15px;
   width: 100vw;       
   height: 100vh;      
   object-fit: cover;  
-  display: block;      
+  display: block;     
   margin: 0;          
   padding: 0;         
+}
 
 .espacio{
 margin-top:40px;
